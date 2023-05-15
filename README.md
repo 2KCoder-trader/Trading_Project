@@ -1,1 +1,1 @@
-"# Trading_Project" 
+This is a simulated game that involved with stock trading where you are specifically trading with the Microsoft Market. In order to play the game you would either press the key s to sell or b to buy where that would make a dot appear on the display graph. 
